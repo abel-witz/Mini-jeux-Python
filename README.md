@@ -1,4 +1,4 @@
-# Python Mini Games Collection
+# Python Mini Games
 
 This repository features three simple Python-based games that showcase different game mechanics and basic physics:
 
