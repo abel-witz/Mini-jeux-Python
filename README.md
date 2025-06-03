@@ -6,6 +6,6 @@ Ce dépôt présente trois jeux simples développés en Python, mettant en avant
 
 1. **Morpion (Tic-Tac-Toe)**
 2. **Jeu de la Vie (Game of Life)**
-3. **Simulation de caisse (Push Box)**
+3. **Simulation de caisse (Push Box with Physics)**
 
 Pour la simulation de caisse, vous devrez installer la bibliothèque pygame.
